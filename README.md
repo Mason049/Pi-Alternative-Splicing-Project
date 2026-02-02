@@ -1,8 +1,14 @@
 # Pi-Alternative-Splicing-Project
+
 A bioinformatics pipeline for identifying and analyzing Plant NLR genes. Includes scripts for genomic coordinate matching, sequence extraction, and downstream analysis of N-terminal MADA motifs and alternative splicing signatures.
+
+---
+
 # SolDB NLR & MADA Motif Analysis Pipeline
 
 This repository contains a comprehensive bioinformatics workflow for identifying and analyzing Plant Nucleotide-binding Leucine-rich Repeat (NLR) genes. The pipeline spans from genomic coordinate extraction to deep motif analysis of the N-terminal MADA motif.
+
+
 
 ## 📂 Project Structure
 
@@ -16,7 +22,7 @@ This repository contains a comprehensive bioinformatics workflow for identifying
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### 1. Prerequisites
 **Python Environment**:
@@ -34,17 +40,17 @@ This repository contains a comprehensive bioinformatics workflow for identifying
 
 ---
 
-Datasets
-The sequence coordinates and extracted gene sequences used in this pipeline are expected to be organized in a local data/ folder. For large-scale genomic datasets (e.g., GFF and FASTA files), please refer to your respective institutional genomic databases or public repositories like Sol Genomics Network.
+## 📂 Datasets
+The sequence coordinates and extracted gene sequences used in this pipeline are expected to be organized in a local `data/` folder. For large-scale genomic datasets (e.g., GFF and FASTA files), please refer to your respective institutional genomic databases or public repositories like **Sol Genomics Network**.
 
-Author
-This pipeline is developed by AmirAli Toghani. For questions, comments, or technical support, please contact the author or submit an issue on this GitHub repository.
+## 👤 Author
+This pipeline is developed by **AmirAli Toghani**. For questions, comments, or technical support, please contact the author or submit an issue on this GitHub repository.
 
-Reference
-If you use these scripts or the analysis workflow in your research, please cite this project as: Toghani, A., 2025. Pi-Alternative-Splicing-Project: A bioinformatics pipeline for Plant NLR gene identification and N-terminal MADA motif analysis. GitHub: [Insert your repository link here].
+## 📖 Reference
+If you use these scripts or the analysis workflow in your research, please cite this project as:
+> **Toghani, A., 2025.** *Pi-Alternative-Splicing-Project: A bioinformatics pipeline for Plant NLR gene identification and N-terminal MADA motif analysis.* GitHub: [Insert your repository link here].
 
-Note: If this work is part of a specific publication, replace the above with the full journal citation once available.
+*Note: If this work is part of a specific publication, replace the above with the full journal citation once available.*
 
-Copyright
-Copyright (C) 2025 AmirAli Toghani. Distributed under the MIT License.
----
+## ⚖️ Copyright
+Copyright (C) 2025 **AmirAli Toghani**. Distributed under the MIT License.
