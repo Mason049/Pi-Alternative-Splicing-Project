@@ -10,7 +10,7 @@ This repository contains a comprehensive bioinformatics workflow for identifying
 
 
 
-## 📂 Project Structure
+## Project Structure
 
 ### Python Scripts (Data Processing)
 * **`extract_gene_coords.py`**: Extracts genomic coordinates by matching metadata entries to GFF files. It supports recursive directory searching and various matching modes like `strict-id` or `id+name`.
@@ -22,7 +22,7 @@ This repository contains a comprehensive bioinformatics workflow for identifying
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 **Python Environment**:
@@ -40,11 +40,11 @@ This repository contains a comprehensive bioinformatics workflow for identifying
 
 ---
 
-## 📂 Datasets
+## Datasets
 The sequence coordinates and extracted gene sequences used in this pipeline are expected to be organized in a local `data/` folder. For large-scale genomic datasets (e.g., GFF and FASTA files), please refer to your respective institutional genomic databases or public repositories like **Sol Genomics Network**.
 
-## 👤 Author
+## Author
 This pipeline is developed by **AmirAli Toghani**. For questions, comments, or technical support, please contact the author or submit an issue on this GitHub repository.
 
-## ⚖️ Copyright
+## Copyright
 Copyright (C) 2025 **AmirAli Toghani**. Distributed under the MIT License.
