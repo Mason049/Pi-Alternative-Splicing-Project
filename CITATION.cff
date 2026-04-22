@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Pi-Alternative-Splicing-Project"
+type: software
+version: "v1.0.2"
+doi: 10.5281/zenodo.19688317
+url: "https://github.com/Mason049/Pi-Alternative-Splicing-Project"
+repository-code: "https://github.com/Mason049/Pi-Alternative-Splicing-Project"
+license: "MIT"
+authors:
+  - family-names: "Toghani"
+    given-names: "AmirAli"
+abstract: "A bioinformatics pipeline for plant NLR identification and analysis, including genomic coordinate matching, sequence extraction, N-terminal MADA motif analysis, and alternative splicing-related signature analysis."
+keywords:
+  - plant NLR
+  - alternative splicing
+  - MADA motif
+  - NB-ARC
+  - bioinformatics
+  - phylogeny
